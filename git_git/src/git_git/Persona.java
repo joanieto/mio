@@ -12,6 +12,7 @@ package git_git;
 public class Persona {
     private String nom;
     private int edat;
+    private double altura;
         
          public Persona (String nom, int edat){
              this.nom=nom;
