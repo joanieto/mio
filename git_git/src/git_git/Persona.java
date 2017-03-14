@@ -13,6 +13,7 @@ public class Persona {
     private String nom;
     private int edat;
     private double altura;
+    //comentario 1
         
          public Persona (String nom, int edat){
              this.nom=nom;
