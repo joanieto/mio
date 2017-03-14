@@ -10,8 +10,8 @@ package git_git;
  * @author Sobremesa
  */
 public class Persona {
-     private String nom;
-        private int edat;
+    private String nom;
+    private int edat;
         
          public Persona (String nom, int edat){
              this.nom=nom;
